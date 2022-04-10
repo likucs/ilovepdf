@@ -37,15 +37,15 @@ Some of the main features are:
 ◍ `Convert PDF to images`
 ◍ `Convert files to pdf`                                                                         
 
-Update Channel: @ilovepdf_bot 🤩
+Update Channel: @cs_cloud 🤩
 
-[Source Code 🏆](https://github.com/nabilanavab/ilovepdf)
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Source Code 🏆](https://t.me/discuss_group_cs)
+[Write a feedback 📋](https://t.me/cs_cloud)
 """
     
     
     feedbackMsg = """
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Write a feedback 📋](https://t.me/cs_cloud)
 """
     
     
@@ -105,21 +105,21 @@ reply:
 /encrypt `password` - to set password
 /text - to extract text from pdf
 
-Join Update Channel @ilovepdf_bot, More features soon 🔥
+Join Update Channel @cs_cloud, More features soon 🔥
 """
     
     
     aboutDev = """About Dev:
 
-OwNeD By: @nabilanavab 😜
-Update Channel: @ilovepdf_bot 😇                                                                
+OwNeD By: @iAmLiKu1 😜
+Update Channel: @cs_cloud 😇                                                                
 
 Lang Used: Python🐍
-[Source Code](https://github.com/nabilanavab/ilovepdf)
+[Source Code](https://t.me/cs_cloud)
 
-Join @ilovepdf_bot, if you ❤ this
+Join @cs_cloud, if you ❤ this
 
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Write a feedback 📋](https://t.me/cs_cloud)
 """
     
     
@@ -139,9 +139,9 @@ Join @ilovepdf_bot, if you ❤ this
     - `/generate fileName` - to change pdf name to fileName🤞
     - `/generate name` - to get pdf with your telegram name
 
-For bot updates join @ilovepdf_bot 💎
+For bot updates join @cs_cloud 💎
 
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Write a feedback 📋](https://t.me/cs_cloud)
 """
     
     
@@ -157,9 +157,9 @@ For bot updates join @ilovepdf_bot 💎
 
 1st bot on telegram wich send images without converting entire pdf to images
 
-For bot updates join @ilovepdf_bot 💎
+For bot updates join @cs_cloud 💎
 
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Write a feedback 📋](https://t.me/cs_cloud)
 """
     
     
@@ -173,9 +173,9 @@ For bot updates join @ilovepdf_bot 💎
 ◍ added 30+ new file formats that can be converted to pdf..
 API LIMITS..😕
 
-For bot updates join @ilovepdf_bot 💎                                                           
+For bot updates join @cs_cloud 💎                                                           
 
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Write a feedback 📋](https://t.me/cs_cloud)
 """
     
     
@@ -185,11 +185,11 @@ For bot updates join @ilovepdf_bot 💎
 
 ◍ Please don't try to spread 18+ contents 😒
 
-IF THERE IS ANY KIND OF REPORTING, BUGS, REQUESTS, AND SUGGESTIONS PLEASE CONTACT @nabilanavab
+IF THERE IS ANY KIND OF REPORTING, BUGS, REQUESTS, AND SUGGESTIONS PLEASE CONTACT @iAmLiKu1
 
-For bot updates join @ilovepdf_bot 💎                                                           
+For bot updates join @cs_cloud 💎                                                           
 
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Write a feedback 📋](https://t.me/cs_cloud)
 """
     
     
@@ -200,9 +200,9 @@ Some of the main features are:
 ◍ `Convert PDF to images`
 ◍ `Convert files to pdf`
 
-For bot updates join @ilovepdf_bot 💎                                                           
+For bot updates join @cs_cloud 💎                                                           
 
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Write a feedback 📋](https://t.me/cs_cloud)
 """
 
 # please don't try to steel this code,
